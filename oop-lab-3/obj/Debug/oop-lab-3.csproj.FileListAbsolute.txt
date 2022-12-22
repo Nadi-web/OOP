@@ -1,0 +1,7 @@
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-3\bin\Debug\oop-lab-3.exe.config
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-3\bin\Debug\oop-lab-3.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-3\bin\Debug\oop-lab-3.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-3\obj\Debug\oop-lab-3.csproj.AssemblyReference.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-3\obj\Debug\oop-lab-3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-3\obj\Debug\oop-lab-3.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-3\obj\Debug\oop-lab-3.pdb

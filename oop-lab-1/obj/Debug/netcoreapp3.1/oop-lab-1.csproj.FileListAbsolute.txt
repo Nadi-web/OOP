@@ -1,0 +1,13 @@
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-1\bin\Debug\netcoreapp3.1\oop-lab-1.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-1\bin\Debug\netcoreapp3.1\oop-lab-1.deps.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-1\bin\Debug\netcoreapp3.1\oop-lab-1.runtimeconfig.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-1\bin\Debug\netcoreapp3.1\oop-lab-1.runtimeconfig.dev.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-1\bin\Debug\netcoreapp3.1\oop-lab-1.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-1\bin\Debug\netcoreapp3.1\oop-lab-1.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-1\obj\Debug\netcoreapp3.1\oop-lab-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-1\obj\Debug\netcoreapp3.1\oop-lab-1.AssemblyInfoInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-1\obj\Debug\netcoreapp3.1\oop-lab-1.AssemblyInfo.cs
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-1\obj\Debug\netcoreapp3.1\oop-lab-1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-1\obj\Debug\netcoreapp3.1\oop-lab-1.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-1\obj\Debug\netcoreapp3.1\oop-lab-1.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\uni\oop\oop-lab-1\obj\Debug\netcoreapp3.1\oop-lab-1.genruntimeconfig.cache
